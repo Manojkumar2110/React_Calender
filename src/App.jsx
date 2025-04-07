@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="app">
       <header className="app-header">
-        <h1>React Calendar</h1>
+        <h1>Survey Sparrow Calendar</h1>
       </header>
       <main>
         <Calendar />
